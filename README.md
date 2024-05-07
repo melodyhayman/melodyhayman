@@ -10,3 +10,4 @@ I have a passion for all biochemical research with a special interest in precisi
 [Help with R visualization](https://github.com/melodyhayman/CM515-course-2024/tree/main/modules/05_Visualization)
 
 
+![DNA picture](https://github.com/melodyhayman/melodyhayman/blob/main/dna%20pic.jpeg)
