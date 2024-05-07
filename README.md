@@ -5,8 +5,8 @@ I have a passion for all biochemical research with a special interest in precisi
 
 
  
-##useful links
-link to [my_resources repo](https://github.com/melodyhayman/my-resources.git).
-["interesting"](https://github.com/melodyhayman/CM515-course-2024/tree/main/modules/05_Visualization)
+## Useful links
+[Computation resources](https://github.com/melodyhayman/my-resources.git).
+[Help with R visualization](https://github.com/melodyhayman/CM515-course-2024/tree/main/modules/05_Visualization)
 
 
